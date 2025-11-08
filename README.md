@@ -16,12 +16,6 @@ Backend: Python
 Database: SQLite
 Visualization: Matplotlib
 
-Screenshots:
-[!Dashboard](Screenshots/ss1.png)
-[!Add Expense](Screenshots/ss2.png)
-[!View Expnse](Screenshots/ss3.png)
-[!Reports](Screenshots/ss4.png)
-
 📈 Future Enhancements
 🔹 Add export to Excel / PDF functionality
 🔹 Include user authentication and multiple profiles
