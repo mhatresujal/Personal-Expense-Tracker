@@ -17,10 +17,10 @@ Database: SQLite
 Visualization: Matplotlib
 
 Screenshots:
-(screenshots/ss1.png)
-(screenshots/ss2.png)
-(screenshots/ss3.png)
-(screenshots/ss4.png)
+[!Dashboard](screenshots/ss1.png)
+[!Dashboard](screenshots/ss2.png)
+[!Dashboard](screenshots/ss3.png)
+[!Dashboard](screenshots/ss4.png)
 
 📈 Future Enhancements
 🔹 Add export to Excel / PDF functionality
