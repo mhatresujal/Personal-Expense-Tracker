@@ -18,9 +18,9 @@ Visualization: Matplotlib
 
 Screenshots:
 [!Dashboard](Screenshots/ss1.png)
-[!Dashboard](Screenshots/ss2.png)
-[!Dashboard](Screenshots/ss3.png)
-[!Dashboard](Screenshots/ss4.png)
+[!Add Expense](Screenshots/ss2.png)
+[!View Expnse](Screenshots/ss3.png)
+[!Reports](Screenshots/ss4.png)
 
 📈 Future Enhancements
 🔹 Add export to Excel / PDF functionality
